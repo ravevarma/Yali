@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Poco
 
-You can use the [editor on GitHub](https://github.com/ravevarma/poco/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Poco is friendly to new programmers. It's a safe, fast and interactive programming language that combines the best in modern language thinking with wisdom. Its combination of safety and speed makes Poco an excellent choice for everything form "Hello, World!" to an entire Operating system. Poco is modern, lightweight syntax, allowing complex ideas to be expressed in a clear and concise manner as a result, code is not just easier to wirte, but easier to read and manitain as well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Poco Tour
+Starts with printing "Hello, world!" to the console, it's an tradition way that the first program in a new language should print this not neccessary but stick with tradition.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+say("Hello, world!")
+"" Prints 'Hello, world!' ""
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ravevarma/poco/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
