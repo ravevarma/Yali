@@ -1,2 +1,2 @@
-# Yali
-Yet Another Language Instruction ~ a new programming language
+# poco lang
+Poco is another modern programming langugage.
