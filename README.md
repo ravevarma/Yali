@@ -1,2 +1,2 @@
 # poco lang
-Poco is another modern programming langugage.
+Poco is a small modern programming language..
